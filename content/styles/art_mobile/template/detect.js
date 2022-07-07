@@ -5,7 +5,7 @@
 	Check http://www.phpbbmobile.com/ for latest version.
 */
 (function() {
-
+return;
 	// Check if variables are set
 	if (typeof(phpBBMobileStyle) != 'boolean' || typeof(phpBBMobileVar) != 'string')
 	{
